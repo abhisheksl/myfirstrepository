@@ -1,4 +1,6 @@
 # myfirstrepository
 My fiist repository
-This is heading
-This is smaller heading
+
+#This is heading
+
+##This is smaller heading
